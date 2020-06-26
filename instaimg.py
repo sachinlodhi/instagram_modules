@@ -28,8 +28,8 @@ options = FirefoxOptions()
 options.add_argument("--headless")
 if args["stealth"] == 'y':
     driver = webdriver.Firefox(options=options)
-else:
-    driver = webdriver.Firefox(options=options)
+elif args["stealth"] == 'n':
+    driver = webdriver.Firefox()
 
 
 target_usr=args["username"]
