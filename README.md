@@ -12,3 +12,10 @@ This will run the script in exposed mode i.e. the browser will be visible nd fir
 
 python3 instaimg.py -u "sushantsinghrajput"
 This will run the script in  stealth i.e. the browser will not be visible and all images(+video thumbnails) will be downloaded from the instagram account "sushantsinghrajput"
+
+Dependencies:
+1) Driver(GeckoDriver/Chrome Driver)
+2) Selenium
+3) Python3 (recommended)
+
+Note: While using in terminal use python3 not python or it may cause some unwanter error.
