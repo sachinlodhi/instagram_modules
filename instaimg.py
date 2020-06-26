@@ -93,4 +93,4 @@ for i in img_Link:
      break
  img_Num+=1
 
-print(f"[SUCEESS] Job Done. Total {img_Num} have been saved.")
+print(f"[SUCEESS] Job Done. Total {img_Num-1} have been saved.")
