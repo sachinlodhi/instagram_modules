@@ -19,3 +19,7 @@ Dependencies:
 3) Python3 (recommended)
 
 Note: While using in terminal use python3 not python or it may cause some unwanter error.
+
+
+
+Caution : This script is for educational and research purposes only. I am not liable for any damage done by exploiting this. User of this program must take permission from the instagram or instagram account owner for the actual use.
