@@ -1,5 +1,7 @@
 
 # instagram image download
+
+(These instructions are for single script only)
 This script will download all/provided number of photos from the public instagram account
 
 Usage:
