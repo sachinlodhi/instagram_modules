@@ -17,6 +17,18 @@ This will run the script in exposed mode i.e. the browser will be visible nd fir
 python3 instaimg.py -u "sushantsinghrajput"
 This will run the script in  stealth i.e. the browser will not be visible and all images(+video thumbnails) will be downloaded from the instagram account "sushantsinghrajput"
 
+
+# Instructions for downloading in bulk
+
+1. Clone the repository.
+2. Open any IDE.(pycharm is recommended)
+3. Open the cloned folder in IDE.
+4. Install requirements using command : pip install -r requirements.txt
+5. Set Gecko Driver in path.
+6. Run "Driver.py".
+
+
+
 Dependencies:
 1) Driver(GeckoDriver/Chrome Driver)
 2) Selenium
